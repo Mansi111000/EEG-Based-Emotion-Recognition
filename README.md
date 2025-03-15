@@ -14,7 +14,6 @@
 - [📊 Accuracy Results](#accuracy-results)
 - [🚀 How to Use](#how-to-use)
 - [🔮 Future Improvements](#future-improvements)
-- [📜 License](#license)
 - [📧 Contact](#contact)
 
 ---
@@ -129,11 +128,6 @@ Follow these steps to use the project:
 - 🧠 **Real-Time EEG Processing**: Developing a real-time emotion recognition system.
 - 🔗 **Multimodal Analysis**: Combining EEG data with facial expression or speech recognition.
 - 📈 **Dataset Expansion**: Collecting more diverse data for better model generalization.
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 
