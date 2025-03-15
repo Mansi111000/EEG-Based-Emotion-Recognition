@@ -47,7 +47,7 @@ This study uses EEG data collected from an emotion recognition experiment where 
 - **Demographic information** and participant background details.
 - Ensures diversity and reliability in data collection.
 
-🔗 **Dataset Source**: *[Provide dataset link if applicable]*
+🔗 **Dataset Source**: *[https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html]*
 
 ---
 
